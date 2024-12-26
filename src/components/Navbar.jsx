@@ -12,7 +12,7 @@ function Navbar() {
                     <li><a href="#tutors">Tutors</a></li>
                     <li><a href="#partners">Partners</a></li>
                     <li><a href="#contact">Contact</a></li>
-                    <li><a href="" className="tbl-biru">Sign Up</a></li>
+                    <li><a href="https://wa.me/+628818471170" className="tbl-biru">Hub Me</a></li>
                 </ul>
             </div>
         </div>
