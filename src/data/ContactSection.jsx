@@ -5,7 +5,7 @@ export const contactSection = [
     },
     {
         content: `<h3>Tentang</h3>
-                        <p>Saya Hanya Seorang Anak Yang Lahir Dari Keluarga Sederhana Dan Mempunyai Cita-Cita Yabg Luar Biasa</p>`
+                        <p>Hanya Seorang Anak Kecil🙏!!</p>`
     },
     {
         content: `<h3>Kontak</h3>
